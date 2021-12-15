@@ -21,7 +21,7 @@
 ## IMPORTANT:  See 'currentTime' variable in js file for manual manipulation of time if viewing application before 8am and after 5pm.
 
 # Screen Shot:  
-Will Update
+![Preview](https://github.com/T0930/TM-Work-Day-Planner/blob/main/images/Work-Day-Scheduler.png?raw=true)
 
 # Deployed Website:
 [TM-Work-Day-Planner](https://t0930.github.io/TM-Work-Day-Planner/)
